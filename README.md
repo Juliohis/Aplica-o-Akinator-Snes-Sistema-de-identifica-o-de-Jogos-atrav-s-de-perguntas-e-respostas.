@@ -1,0 +1,1 @@
+# Aplica-o-Akinator-Snes-Sistema-de-identifica-o-de-Jogos-atrav-s-de-perguntas-e-respostas.
